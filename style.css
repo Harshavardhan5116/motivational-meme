@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+}
+div{
+    text-align: center;
+}
+img{
+    border: white solid 5px;
+    height:200px;
+    margin-top: 50px;
+    
+}
+h1{
+    font-family: caveat;
+    color: white;
+}
+p{
+    color: white;
+}
